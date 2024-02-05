@@ -1,12 +1,9 @@
 ### Hey, I'm **Icy**!
 ****
 # Introduction
-I'm a Devforum **Regular** and a **UGC creator**. I've got about **~4** years of experience in both **Modeling** and **Programming**. I love working with people and helping them understand areas of programming that they may not have known.
-****
-# My work
-I mostly work on smaller projects, that try to push the capabilities of Roblox. To the point that Roblox itself is the limiting factor when I'm making projects. I always try making projects that are unique and that you may even find outside of Roblox.
+I'm an enthusiast Graphics programmer. I really, really love nature and how it interacts with itself. I'm also a big fan of simulating nature, and it's phenomenoms. Which is also a big reason on why I love graphics programming, since it lets me mix my 2 favorite things: programming and nature. Nature in video games always amazes me, one of the things that interests me is how it's optimized to run on consoles or lower end PCs. I also like watching GDC talks, since they really delve into how game mechanics work at a low level and they even inspire me to work on new projects.
 ****
 # My skills
-I also babble in programming outside of Roblox, such as **Python**, **JavaScript**/**TypeScript**, and minimal amounts of **C++**. Although, I mostly use Python. I enjoy learning new things, especially in fields that I may not understand well.
+I've babbled in quite a lot of programming languages, but the ones that I can confidently say that I know how to use are: **Python**, **JavaScript**/**TypeScript**, and some **C++**. Although, I mostly use Python. I enjoy learning new things, especially in fields that I may not understand well.
 ****
-Hopefully, this whole introduction gave you a new light on me, and I'll see you in Studio!
+Hopefully, this whole introduction gave you a new light on me!

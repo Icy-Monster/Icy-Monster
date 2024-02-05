@@ -7,5 +7,3 @@ I'm an enthusiast Graphics programmer. I really, really love nature and how it i
 I've babbled in quite a lot of programming languages, but the ones that I can confidently say that I know how to use are: **Python**, **JavaScript**/**TypeScript**, and some **C++**. Although, I mostly use Python. I enjoy learning new things, especially in fields that I may not understand well.
 ****
 Hopefully, this whole introduction gave you a new light on me!
-###
-![Untitled](https://github.com/Icy-Monster/Icy-Monster/assets/102822122/cca6e0f3-07ed-40e7-b451-c5ea55000525)
